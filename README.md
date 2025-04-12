@@ -1,5 +1,6 @@
 # ECE57000
 ECE57000 Term Paper code
+## Note when notebook says invalid, please open it via google colab, as Github cannot render it
 
 Name: Venu Thamodharan
 
