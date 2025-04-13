@@ -1,6 +1,7 @@
 # ECE57000
 ECE57000 Term Paper code
 ## Note when notebook says invalid, please open it via google colab, as Github cannot render it due to a bug with widgets in output cell.
+Setup instructions below
 
 Name: ECE57000
 
@@ -38,3 +39,12 @@ gree of human-to-human agreement. Because
 human preferences are usually expensive to col-
 lect, LLM-as-a-judge offers a scalable and inter-
 pretable way to approximate them
+##Setup Instructions
+Final code is in the final_code folder and has 2 versions, one is a direct link to colab file the other is a version that is github friendly, due to a widget rendering bug, I had to remove the output cells that have rendering progress bars.
+1. Google colab
+    1. You will need huggingface tokens set to access the 3 LLMs infered from HF.
+    2. A100 paid GPU compute units
+3. Code LinkToColabCode.ipynb
+4. Code JudgeLLM_Final_GitHubSafe.ipynb
+5. requirements.txt file
+
