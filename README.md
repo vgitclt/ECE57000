@@ -7,6 +7,13 @@ Name: ECE57000
 
 Program: MSAI
 
+
+Link to Anonymous Github click URL below
+https://anonymous.4open.science/r/ECE57000-48B5
+
+Link to Video 5 min Presentation on Google Drive
+https://drive.google.com/file/d/1bXuq_iRMP3Wia3IvksPOBLWmeRuIikOY/view?usp=sharing
+
 LLM-as-a-judge is a common technique to evaluate LLM-powered products.
 It grew in popularity for a reason: it’s a practical alternative to costly human evaluation when assessing open-ended text outputs. We can see it as an automated testing tool for LLMs effectiveness Judging generated texts is tricky — whether it's a “simple” summary or a chatbot conversation. Metrics like accuracy don’t work well because there are many ways to be “right” without exactly matching the example answer. And things like style or tone are subjective and hard to pin down. Humans can handle these nuances, but manually reviewing every response doesn’t scale. LLM-as-a-judge emerged as an alternative: you can use LLMs to evaluate the generated texts. Interestingly, the LLM is both the source of the problem and the solution!
 
